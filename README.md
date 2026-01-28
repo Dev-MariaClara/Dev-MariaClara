@@ -12,5 +12,3 @@ Estudante de Engenharia de Software na UCSAL, com foco em me tornar uma Desenvol
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
- Projetos em Destaque
-- **[Minha Rotina](https://dev-mariaclara.github.io/minha-rotina/):** Um gerenciador de tarefas responsivo que desenvolvi para aplicar conceitos de Front-end e UX Design.
