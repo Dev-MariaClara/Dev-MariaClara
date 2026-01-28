@@ -1,11 +1,9 @@
-# Olá, eu sou a Maria Clara!
+Estudante de Engenharia de Software na UCSAL, com foco em me tornar uma Desenvolvedora Full Stack.
 
-Estudante de **Engenharia de Software** na UCSal (3º semestre) e entusiasta de tecnologia, com foco em me tornar uma Desenvolvedora Full Stack com especialização em Blockchain.
-
-### 🚀 Sobre mim
--  Atualmente mergulhando em Engenharia de Requisitos, Banco de Dados e Arquitetura de Computadores.
--  Meu objetivo de carreira é atuar como Engenheira de Software, com o sonho de contribuir para missões na **NASA**.
--  Gosto de documentar meu aprendizado e criar projetos que facilitem a rotina (como o meu gerenciador de tarefas "Minha Rotina").
+### Sobre mim
+-  Meu objetivo de carreira é atuar como Engenheira de Software.
+-  Gosto de documentar meu aprendizado e criar projetos que facilitem a rotina.
+-  Atualmente, estou focando meus estudos em Java e Banco de Dados.
 
  Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
