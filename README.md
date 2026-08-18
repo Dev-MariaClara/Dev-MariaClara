@@ -3,7 +3,7 @@ Estudante de Engenharia de Software na UCSAL, com foco em me tornar uma Desenvol
 ### Sobre mim  
 -  Meu objetivo de carreira é atuar como Engenheira de Software.  
 -  Gosto de documentar meu aprendizado e criar projetos que facilitem a rotina.  
--  Atualmente, estou focando meus estudos em Segurança e autentificação.  
+-  Atualmente, estou focando meus estudos em Java e Banco de Dados.  
   
  Tecnologias e Ferramentas  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -15,3 +15,5 @@ Estudante de Engenharia de Software na UCSAL, com foco em me tornar uma Desenvol
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ColdFusion](https://img.shields.io/badge/ColdFusion-%23000?style=for-the-badge&logo=adobe&logoColor=white)
 
+### ColdFusion
+![ColdFusion](https://img.shields.io/badge/ColdFusion-%23000?style=for-the-badge&logo=adobe&logoColor=white)
