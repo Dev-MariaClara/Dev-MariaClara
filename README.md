@@ -1,7 +1,7 @@
-Estudante de Engenharia de Software na UCSAL, com foco em me tornar uma Desenvolvedora Full Stack. Atualmente, sou Estagiária de Desenvolvimento.
+Estudante de Engenharia de Software na UCSAL, com foco em me tornar uma Desenvolvedora Full Stack com experiencia com desenvolvimento web 
 ### Sobre mim  
 -  Meu objetivo de carreira é atuar como Engenheira de Software.  
--  Atualmente, atuo como Estagiária de Desenvolvimento, adquirindo experiência prática com manutenção e desenvolvimento de sistemas web.  
+-   atuei como Estagiária de Desenvolvimento web, com experiência prática com manutenção e desenvolvimento de sistemas web.  
 -  No estágio, estou aprendendo e aprimorando meus conhecimentos em ColdFusion, JavaScript, HTML, CSS e Banco de Dados, além de trabalhar com análise de código, depuração, correção de funcionalidades e implementação de melhorias e Atualmente estou focando meus estudos em Seguranca e autentificacao.  
   
  Tecnologias e Ferramentas  
