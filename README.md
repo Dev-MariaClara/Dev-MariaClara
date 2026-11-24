@@ -2,7 +2,7 @@ Estudante de Engenharia de Software na UCSAL, com foco em me tornar uma Desenvol
 ### Sobre mim  
 -  Meu objetivo de carreira é atuar como Engenheira de Software.  
 -   atuei como Estagiária de Desenvolvimento web, com experiência prática com manutenção e desenvolvimento de sistemas web.  
--  No estágio, estou aprendendo e aprimorando meus conhecimentos em ColdFusion, JavaScript, HTML, CSS e Banco de Dados, além de trabalhar com análise de código, depuração, correção de funcionalidades e implementação de melhorias e Atualmente estou focando meus estudos em Seguranca e autentificacao.  
+-  No estágio, Ja trabalhei com análise de código, depuração, correção de funcionalidades e implementação de melhorias e Atualmente estou focando meus estudos em Cloud e robotica.  
   
  Tecnologias e Ferramentas  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
